@@ -1,5 +1,3 @@
-# Farhan
-
 ```bash
 $ whoami
 

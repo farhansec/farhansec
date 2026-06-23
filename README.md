@@ -93,7 +93,7 @@ Exploring how AI can improve learning, research, and security operations.
 
 <!-- Replace these with your actual repository names -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/farhansec">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhansec&repo=repo1&hide_border=true" />
   </a>
@@ -114,7 +114,7 @@ Exploring how AI can improve learning, research, and security operations.
 </p>
 
 ---
-
+-->
 ## TryHackMe
 
 <p align="left">

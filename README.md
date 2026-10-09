@@ -3,7 +3,7 @@ $ whoami
 
 Farhan
 
-Offensive Security Student | Future Pentester
+Web Application & API Penetration Tester
 
 Learning by breaking things in labs,
 documenting the process,

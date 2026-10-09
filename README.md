@@ -3,7 +3,7 @@ $ whoami
 
 Farhan
 
-Web Application & API Penetration Tester
+Web Application & API Penetration Tester | CPENT Certified
 
 Learning by breaking things in labs,
 documenting the process,
@@ -124,7 +124,7 @@ Exploring how AI can improve learning, research, and security operations.
 </p>
 
 * Top 4% on TryHackMe
-* 98+ Rooms Completed
+* 100+ Rooms Completed
 
 ---
 
